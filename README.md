@@ -1,5 +1,5 @@
 # 💫 À propos de moi! :
-allo !<br><br>étudiant en multimédia (TIM) - collège de maisonneuve - montréal<br><br>Languages utilisés :<br>HTML / CSS<br>JavaScript<br><br>En apprentissage :<br>PHP<br>SQL<br>C#
+allo !<br><br>étudiant en multimédia (TIM) - collège de maisonneuve - montréal<br>
 
 
 ## 🌐 Me retrouver sur :
