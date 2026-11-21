@@ -1,5 +1,7 @@
 # 💫 À propos de moi! :
-allo !<br><br>étudiant en multimédia (TIM) - collège de maisonneuve - montréal<br>
+allo !<br><br>étudiant en multimédia (TIM) - collège de maisonneuve - montréal<br><br>
+
+i'd consider myself more of a designer, so my code looks probably quite mid! i do try to code sometimes tho! but you can find my better work on behance if interested!
 
 
 ## 🌐 Me retrouver sur :
